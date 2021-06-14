@@ -172,7 +172,8 @@ hr{
   background-image: linear-gradient(to bottom, #fafeff, #948b8c);
   text-decoration: none;
 }
-.ANU{COLOR:WHITE;}
+.ANU{COLOR:WHITE;
+font-size: 0.75rem ;}
 a{color:#222831;
 margin:10px;
 text-decoration: none;}
