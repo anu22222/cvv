@@ -117,19 +117,19 @@ background-color:black;
   float:left;
   width:25%;
   margin-right: 30px;
-  padding-right:90px;
+
 }
 .doo{
   float:right;
   width:25%;
   margin-left:30px;
-  padding-left:90px;
+ 
 }
 .teen{
   float:right;
   width:25%;
   margin-right: 30px;
-  padding-left:90px;
+ 
 }
 p{line-height: 2;}
 hr{
@@ -208,4 +208,4 @@ padding-right:150px;
 }
 .gisimg{width:25%;
 float:left;
-padding-right:90px;}
+}
