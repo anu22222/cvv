@@ -291,4 +291,5 @@ float:left;
 .head{background-color:black;
 padding-top:20px;
 position:absolute;
+  left:10px;
 }
