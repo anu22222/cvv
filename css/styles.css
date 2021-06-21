@@ -238,31 +238,11 @@ hr{
   margin:35px 35px 35px 35px;
 }
 
-.btn {
-  background: #363a3d;
-  background-image: -webkit-linear-gradient(top, #363a3d, #f7f7f7);
-  background-image: -moz-linear-gradient(top, #363a3d, #f7f7f7);
-  background-image: -ms-linear-gradient(top, #363a3d, #f7f7f7);
-  background-image: -o-linear-gradient(top, #363a3d, #f7f7f7);
-  background-image: linear-gradient(to bottom, #363a3d, #f7f7f7);
-  -webkit-border-radius: 28;
-  -moz-border-radius: 28;
-  border-radius: 28px;
-  font-family: Courier New;
-  color: #ffffff;
-  font-size: 20px;
-  padding: 10px 20px 10px 20px;
-  text-decoration: none;
-}
-
-.btn:hover {
-  background: #E5B299;
-  background-image: -webkit-linear-gradient(top, #E5B299, #e6e6e6);
-  background-image: -moz-linear-gradient(top, #E5B299, #e6e6e6);
-  background-image: -ms-linear-gradient(top, #E5B299, #e6e6e6);
-  background-image: -o-linear-gradient(top, #E5B299, #e6e6e6);
-  background-image: linear-gradient(to bottom, #E5B299, #e6e6e6);
-  text-decoration: none;
+.btn {font-family:'Italianno', cursive;
+font-weight: bold;
+text-decoration: underline;
+font-size: 1.5rem;
+ 
 }
 .ANU{COLOR:WHITE;
 font-size: 1rem;}
