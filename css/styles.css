@@ -1,13 +1,12 @@
 body{
   text-align: center;
   margin:0;
-  background-color:BLACK;
-  font-size:
+  background-color:#D6E0F0;
 
 }
 .big-banner{background-image: url("../image/show.jpg");
 
-
+margin:35px 35px 35px 35px;
 background-repeat: no-repeat;
 background-size: cover;
 background-color: transparent;
@@ -43,6 +42,7 @@ bottom:250px;
 -webkit-text-fill-color: transparent;
 font-weight:600;
 padding-top: 100PX;
+
 }
 
 h2{
@@ -51,8 +51,6 @@ h2{
   padding-bottom: 10px;
   padding-top: 20px;
 font-family: 'Cinzel Decorative', cursive;
-
-
 }
 
 
@@ -63,11 +61,8 @@ h3{
     margin:auto;
 
 }
-.HEHE{BACKGROUND: linear-gradient(
-  271deg
-  ,#FCDEC0 30%,white 50%,#E5B299 70%,white 94% );
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
+.HEHE{
+color: black;
 font-weight:600;
 }
 
@@ -80,8 +75,8 @@ font-weight:600;
     ,#FCDEC0 30%,white 50%,#E5B299 70%,white 94% );
 
 position:relative;
-bottom:280px;
 
+bottom:280px;
   font-size: 2rem;
 }
 .comp{
@@ -92,22 +87,38 @@ bottom:280px;
   position:relative;
   left:0px;
 }
+
+
 .middle-container{
   color:black;
   margin:0;
 
-
+}
+.and{ width:60%;
+PADDING:0 AUTO 0 AUTO;
+BACKGROUND-COLOR:WHITE;
+BACKGROUND: linear-gradient(
+  271deg
+  ,#FCDEC0 30%,white 50%,#E5B299 70%,white 94% );
 }
 .profile{
   padding-top:0px;
   padding-bottom:30px;
   font-size:1.2rem;
-  background:
-    linear-gradient(
-    271deg
-    ,#FCDEC0 30%,#FDFAF6 50%,#E5B299 70%,white 94% );;
+  background-image: url("../image/EMOJI.jpg");
+margin:35px 35px 35px 35px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+  background-position: 50% 50%;
+
+  min-height: 0px;
+  padding-top:;
+  padding-bottom:50PX;
 }
+
 .contact-me{
+  margin:35px 35px 35px 35px;
   BACKGROUND: linear-gradient(
     271deg
     ,#FCDEC0 30%,white 50%,#E5B299 70%,white 94% )
@@ -139,9 +150,50 @@ bottom:280px;
   font-size: 1.5rem;
   font-weight:500;
 }
-.skill-row{
+.skill-row1{
+  width:50%;
+    margin:100px auto 100px auto;
+  BACKGROUND: linear-gradient(
+    271deg
+    ,#FCDEC0 30%,white 50%,#E5B299 70%,white 94% )
+    ;
+  text-align:left;
+  line-height: 2;
+  padding-top:70px;
+  padding-bottom:70px;
+
+}
+.skill-row2{
   width:50%;
   margin:100px auto 100px auto;
+  BACKGROUND: linear-gradient(
+    271deg
+    ,#FCDEC0 30%,white 50%,#E5B299 70%,white 94% )
+    ;
+  text-align:left;
+  line-height: 2;
+  padding-top:70px;
+  padding-bottom:70px;
+}
+.skill-row3{
+  width:50%;
+  margin:100px auto 100px auto;
+  BACKGROUND: linear-gradient(
+    271deg
+    ,#FCDEC0 30%,white 50%,#E5B299 70%,white 94% )
+    ;
+  text-align:left;
+  line-height: 2;
+  padding-top:70px;
+  padding-bottom:70px;
+}
+.skill-row4{
+  width:50%;
+  margin:100px auto 100px auto;
+  BACKGROUND: linear-gradient(
+    271deg
+    ,#FCDEC0 30%,white 50%,#E5B299 70%,white 94% )
+    ;
   text-align:left;
   line-height: 2;
   padding-top:70px;
@@ -183,33 +235,33 @@ hr{
 
   padding-bottom:50PX;
   MARGIN-TOP:50PX;
+  margin:35px 35px 35px 35px;
 }
 
 .btn {
-  background: #e5b299;
-  background-image: -webkit-linear-gradient(top, #e5b299, #f2dff2);
-  background-image: -moz-linear-gradient(top, #e5b299, #f2dff2);
-  background-image: -ms-linear-gradient(top, #e5b299, #f2dff2);
-  background-image: -o-linear-gradient(top, #e5b299, #f2dff2);
-  background-image: linear-gradient(to bottom, #e5b299, #f2dff2);
-  -webkit-border-radius: 30;
-  -moz-border-radius: 30;
-  border-radius: 30px;
-  text-shadow: 4px 4px 14px #a184a1;
-  font-family: Georgia;
+  background: #363a3d;
+  background-image: -webkit-linear-gradient(top, #363a3d, #f7f7f7);
+  background-image: -moz-linear-gradient(top, #363a3d, #f7f7f7);
+  background-image: -ms-linear-gradient(top, #363a3d, #f7f7f7);
+  background-image: -o-linear-gradient(top, #363a3d, #f7f7f7);
+  background-image: linear-gradient(to bottom, #363a3d, #f7f7f7);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Courier New;
   color: #ffffff;
-  font-size: 17px;
+  font-size: 20px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
 
 .btn:hover {
-  background: #d8e5f0;
-  background-image: -webkit-linear-gradient(top, #d8e5f0, #b3bcc2);
-  background-image: -moz-linear-gradient(top, #d8e5f0, #b3bcc2);
-  background-image: -ms-linear-gradient(top, #d8e5f0, #b3bcc2);
-  background-image: -o-linear-gradient(top, #d8e5f0, #b3bcc2);
-  background-image: linear-gradient(to bottom, #d8e5f0, #b3bcc2);
+  background: #E5B299;
+  background-image: -webkit-linear-gradient(top, #E5B299, #e6e6e6);
+  background-image: -moz-linear-gradient(top, #E5B299, #e6e6e6);
+  background-image: -ms-linear-gradient(top, #E5B299, #e6e6e6);
+  background-image: -o-linear-gradient(top, #E5B299, #e6e6e6);
+  background-image: linear-gradient(to bottom, #E5B299, #e6e6e6);
   text-decoration: none;
 }
 .ANU{COLOR:WHITE;
@@ -222,11 +274,7 @@ a:hover{color:white;}
   color:#e8f6f6;
   font-size: 0.50rem;
 }
-.FRONT{BACKGROUND: linear-gradient(
-  271deg
-  ,#FCDEC0 30%,white 50%,#E5B299 70%,white 94% );
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
+.FRONT{color: black;
 font-weight:500;
 
   padding-left: 200PX;
@@ -234,11 +282,7 @@ font-weight:500;
   text-align:left;
 }
 .cod{
-  BACKGROUND: linear-gradient(
-    271deg
-    ,#FCDEC0 30%,white 50%,#E5B299 70%,white 94% );
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+color: black;
   font-weight:500;
   font-size:1.5rem;
 text-align:right;
@@ -246,11 +290,8 @@ padding-right:200px;}
 
 .data{font-size:1.5rem;
 text-align:right;
-padding-right:150px;BACKGROUND: linear-gradient(
-  271deg
-  ,#FCDEC0 30%,white 50%,#E5B299 70%,white 94% );
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
+padding-right:150px;
+color: black;
 font-weight:500;
 
 }
@@ -260,13 +301,9 @@ font-weight:500;
 }
 .ro{font-size: 1.5rem;
   text-align:left;
-  padding-left:250px;BACKGROUND: linear-gradient(
-    271deg
-    ,#FCDEC0 30%,white 50%,#E5B299 70%,white 94% );
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  padding-left:250px;
   font-weight:500;
-
+color: black;
 }
 .gisimg{width:25%;
 float:left;
@@ -278,4 +315,20 @@ position:absolute;
   left:10px;
 }
 .EYE{COLOR:BLACK;padding-top: 100PX;}
+.skills{  background-image: url("../image/wall.jpg");
+
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+  background-position: 50% 50%;
+
+  min-height: 0px;
+  padding-top:;;
+  padding-bottom:;
+  margin:35px 35px 35px 35px;
+  padding-bottom: 100px;
+
+}
+
 
