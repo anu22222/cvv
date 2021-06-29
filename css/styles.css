@@ -197,14 +197,15 @@ border-color:black;}
   padding-left:;
   line-height: 3;}
 .car{
-  background-color:black;
+  background-image: url("../image/marv (1).jpg");
+ 
   margin-top:5px;
   margin-bottom: 5px;
   padding-top:25px;
   padding-bottom: 50px;
 
 }
-.h3{color:#22A39F;
+.h3{color:white;
   font-size:1.5rem;
 font-weight: lighter;
 padding-left:100px;
