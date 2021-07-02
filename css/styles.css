@@ -18,9 +18,8 @@ padding-bottom: 319px;
 
 h1{
 
-
-font-family: 'Marvel', sans-serif;
-font-weight:bolder;
+font-family: 'Antic Didone', serif;
+font-weight:lighter;
 color:white;
 font-size: 6rem;
 position:relative;
@@ -41,9 +40,9 @@ bottom:100px;
 }
 h3{
   font-size: 2rem;
-font-weight: 600;
+font-weight:lighter;
 color:white;
-font-family: 'Viaoda Libre', cursive;
+font-family: 'Antic Didone', serif;
 bottom:280px;
 margin-top:30px;
 margin-bottom:30px;
