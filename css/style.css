@@ -61,7 +61,7 @@ body {
   font-weight: 500;
   letter-spacing: -0.3rem;
   transform: translateX(-95px);
-  font-size: 9rem;
+  font-size: 7rem;
 }
 .prop{
   position:relative;
@@ -96,7 +96,7 @@ margin-left: 45%;
   z-index: 10;
   font-weight: 800;
   transform: translateX(95px);
-  font-size: 9rem;
+  font-size: 7rem;
 }
 .marvel:before {
   z-index: -10;
