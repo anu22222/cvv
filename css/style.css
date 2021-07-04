@@ -2,9 +2,9 @@
   box-sizing: border-box;
 }
 body {
-  margin: 0;
-   background-color:#22A39F;
-   background-image: radial-gradient(##22A39F 20%, #be2633 50%, rgba(0, 0, 0, .5) 100%);
+ margin: 0;
+  background-color: #e12835;
+  background-image: radial-gradient(#e12835 20%, #be2633 50%, rgba(0, 0, 0, .5) 100%);
 
   background-size: 120%;
   background-position: center;
@@ -101,7 +101,7 @@ margin-left: 45%;
 .marvel:before {
   z-index: -10;
   content: '';
-    background-color:#156461;
+    background-color:#e12835;
   display: block;
 
   border: solid rgba(255, 255, 255, .2) 1px;
@@ -137,7 +137,7 @@ margin-left: 45%;
 .wrapper.run-animation .studios {
   transform: translateX(-95px);
   color: transparent;
-  animation: slide-out-X 7500ms ease forwards, show-text 3000ms linear forwards 1500ms;
+  animation: slide-out-X 1000ms ease forwards, show-text 3000ms linear forwards 1500ms;
 }
 .wrapper.run-animation .studios:before {
   transform: translateY(2.9rem);
